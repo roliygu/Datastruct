@@ -4,7 +4,7 @@ using namespace std;
 #ifndef GRAPH
 #define GRAPH
 #define maxn 100
-ifstream datastream("D:\\Git\\Datastruct\\test.txt",ios::in);
+ifstream datastream("D:\\Git\\Datastruct\\Graph_test.txt",ios::in);
 class EdgeNode
 {
 	public:

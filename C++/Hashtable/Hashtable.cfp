@@ -1,24 +1,20 @@
 <Project version="3.0">
-<Name>Graph</Name>
+<Name>Hashtable</Name>
 <Type>CUI</Type>
-<TargetName>Graph</TargetName>
+<TargetName>Hashtable</TargetName>
 <TargetType>exe</TargetType>
 <Folder name="Source Files">
 	<File>main.cpp</File>
 </Folder>
 <Folder name="Header Files">
-	<File>Graph.h</File>
+	<File>Hashtable.h</File>
 </Folder>
 <Folder name="Other Files">
 </Folder>
-<Attribute topline="1" x="2" y="10">main.cpp</Attribute>
-<Attribute topline="129" x="20" y="68">Graph.h</Attribute>
 <FolderState>111</FolderState>
-<Watch name="Graph_link[x].first"/>
-<Watch name="p-&gt;next"/>
 <DefConfig>mingw5</DefConfig>
 <Builder name="mingw5" type="MinGW" version="1.0">
-	<TargetName>Graph</TargetName>
+	<TargetName>Hashtable</TargetName>
 	<TargetType>exe</TargetType>
 	<TargetDir>mingw5</TargetDir>
 	<InterimDir>mingw5</InterimDir>
